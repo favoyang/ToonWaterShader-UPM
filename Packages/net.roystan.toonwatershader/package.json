@@ -1,0 +1,21 @@
+{
+  "name": "net.roystan.toonwatershader",
+  "displayName": "Toon Water Shader",
+  "version": "1.0.0",
+  "unity": "2018.3",
+  "description": "Toon Shader for Unity",
+  "author": {
+    "name": "Erik Roystan",
+    "url": "https://roystan.net/"
+  },
+  "repository": "https://github.com/favoyang/UnityOutlineShader-UPM",
+  "license": "Unlicense",
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "Toon water shader demo",
+      "path": "Samples~/Demo"
+    }
+  ],
+  "type": "tool"
+}
