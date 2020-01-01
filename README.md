@@ -10,4 +10,4 @@ Unity 2018.3 project source for completed [Toon Water Shader tutorial](https://r
 
 https://openupm.com/packages/net.roystan.toonwatershader/
 
-The shader uses post-processing, please checkout the sample demo for details.
+Please checkout the sample demo for usage.
